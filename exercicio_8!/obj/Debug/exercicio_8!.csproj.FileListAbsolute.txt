@@ -1,0 +1,6 @@
+C:\Users\ee\Source\Repos\POO---Terceira_fase\exercicio_8!\bin\Debug\exercicio_8!.exe.config
+C:\Users\ee\Source\Repos\POO---Terceira_fase\exercicio_8!\bin\Debug\exercicio_8!.exe
+C:\Users\ee\Source\Repos\POO---Terceira_fase\exercicio_8!\bin\Debug\exercicio_8!.pdb
+C:\Users\ee\Source\Repos\POO---Terceira_fase\exercicio_8!\obj\Debug\exercicio_8!.csprojResolveAssemblyReference.cache
+C:\Users\ee\Source\Repos\POO---Terceira_fase\exercicio_8!\obj\Debug\exercicio_8!.exe
+C:\Users\ee\Source\Repos\POO---Terceira_fase\exercicio_8!\obj\Debug\exercicio_8!.pdb

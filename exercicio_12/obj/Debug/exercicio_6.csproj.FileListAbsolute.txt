@@ -1,0 +1,5 @@
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_12\bin\Debug\exercicio_12.exe.config
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_12\bin\Debug\exercicio_12.exe
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_12\bin\Debug\exercicio_12.pdb
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_12\obj\Debug\exercicio_12.exe
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_12\obj\Debug\exercicio_12.pdb

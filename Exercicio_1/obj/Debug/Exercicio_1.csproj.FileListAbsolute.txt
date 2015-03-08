@@ -1,0 +1,9 @@
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\Exercicio_1\bin\Debug\Exercicio_1.exe.config
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\Exercicio_1\bin\Debug\Exercicio_1.exe
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\Exercicio_1\bin\Debug\Exercicio_1.pdb
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\Exercicio_1\obj\Debug\Exercicio_1.csprojResolveAssemblyReference.cache
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\Exercicio_1\obj\Debug\Exercicio_1.exe
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\Exercicio_1\obj\Debug\Exercicio_1.pdb
+C:\Users\ee\Source\Repos\POO---Terceira_fase\Exercicio_1\bin\Debug\Exercicio_1.exe.config
+C:\Users\ee\Source\Repos\POO---Terceira_fase\Exercicio_1\obj\Debug\Exercicio_1.exe
+C:\Users\ee\Source\Repos\POO---Terceira_fase\Exercicio_1\obj\Debug\Exercicio_1.pdb

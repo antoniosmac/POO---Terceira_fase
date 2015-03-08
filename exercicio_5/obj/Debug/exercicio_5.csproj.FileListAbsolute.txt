@@ -1,0 +1,6 @@
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_5\bin\Debug\exercicio_5.exe.config
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_5\bin\Debug\exercicio_5.exe
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_5\bin\Debug\exercicio_5.pdb
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_5\obj\Debug\exercicio_5.csprojResolveAssemblyReference.cache
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_5\obj\Debug\exercicio_5.exe
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_5\obj\Debug\exercicio_5.pdb

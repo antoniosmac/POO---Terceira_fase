@@ -1,0 +1,12 @@
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_2\bin\Debug\exercicio_2.exe.config
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_2\bin\Debug\exercicio_2.exe
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_2\bin\Debug\exercicio_2.pdb
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_2\obj\Debug\exercicio_2.exe
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_2\obj\Debug\exercicio_2.pdb
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_2\obj\Debug\exercicio_2.csprojResolveAssemblyReference.cache
+C:\Users\ee\Source\Repos\POO---Terceira_fase\exercicio_2\bin\Debug\exercicio_2.exe.config
+C:\Users\ee\Source\Repos\POO---Terceira_fase\exercicio_2\obj\Debug\exercicio_2.exe
+C:\Users\ee\Source\Repos\POO---Terceira_fase\exercicio_2\obj\Debug\exercicio_2.pdb
+C:\Users\ee\Source\Repos\POO---Terceira_fase\exercicio_2\bin\Debug\exercicio_2.exe
+C:\Users\ee\Source\Repos\POO---Terceira_fase\exercicio_2\bin\Debug\exercicio_2.pdb
+C:\Users\ee\Source\Repos\POO---Terceira_fase\exercicio_2\obj\Debug\exercicio_2.csprojResolveAssemblyReference.cache

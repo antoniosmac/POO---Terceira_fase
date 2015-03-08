@@ -1,0 +1,6 @@
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_4\bin\Debug\exercicio_4.exe.config
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_4\bin\Debug\exercicio_4.exe
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_4\bin\Debug\exercicio_4.pdb
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_4\obj\Debug\exercicio_4.csprojResolveAssemblyReference.cache
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_4\obj\Debug\exercicio_4.exe
+c:\users\ee\documents\visual studio 2013\Projects\Unidade_1\exercicio_4\obj\Debug\exercicio_4.pdb
